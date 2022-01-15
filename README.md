@@ -7,4 +7,4 @@
 * AutoCAD
 * Проектирование
 ********
-![](img/Zendaya)
+![Zen](/Applications/Aliya/курсач/img/Zendaya.jpeg)
