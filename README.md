@@ -7,4 +7,4 @@
 * AutoCAD
 * Проектирование
 ********
-![](img/Zendaya.jpeg)
+![](img/Zendaya)
