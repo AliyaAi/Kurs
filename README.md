@@ -7,4 +7,4 @@
 * AutoCAD
 * Проектирование
 ********
-![](https://github.com/AliyaAi/Kurs/blob/master/img:/Zendaya.jpeg)
+![](img/Zendaya.jpeg)
